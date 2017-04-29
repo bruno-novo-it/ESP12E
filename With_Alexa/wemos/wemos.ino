@@ -28,8 +28,8 @@ void yellowLightsOn();
 void yellowLightsOff();
 
 // Change this before you flash
-const char* ssid = "Bruno Luis";
-const char* password = "Cisco@18";
+const char* ssid = "Login_da_Wifi";
+const char* password = "Senha_da_Wifi";
 
 boolean wifiConnected = false;
 
